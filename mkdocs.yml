@@ -1,5 +1,15 @@
 site_name: Boko Hacks
 theme:
   name: material
+  features:
+    - navigation.tabs
+    - navigation.sections
+    - toc.integrate
+nav:
+  - Home: index.md
+  - About : about.md
+  - Event Archive: archive.md
+
+
 extra_css:
   - stylesheets/extra.css
