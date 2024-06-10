@@ -1,3 +1,5 @@
 site_name: Boko Hacks
 theme:
   name: material
+extra_css:
+  - stylesheets/extra.css
