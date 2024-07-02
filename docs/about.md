@@ -3,7 +3,7 @@
 BokoHacks is a student-led hackathon designed to create a platform for innovation, learning, and networking among the students at Texas State University. Our mission is to empower students by providing them with the tools, resources, and opportunities to develop their skills in technology. Through a collaborative and competitive environment, we aim to inspire creativity and inclusivity within our field.  
 
 ## **More about Boko Hacks** 
-**<u>Case Study: Previous Fortune 500 Companies Sponsor Success</u>**^^    
+**<u>Case Study: Previous Fortune 500 Companies Sponsor Success</u>**    
 
 **Introduction:** Last semester, BokoHacks was privileged to partner with
 industry giants like KC7 and Microsoft, setting a precedent for successful
