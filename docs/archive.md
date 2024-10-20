@@ -2,7 +2,8 @@
 
 
 ## **Boko Hacks 2025**
-- February 27th-28th 
+- Offical Dates: February 27th-28th 
+- We hope to see you there!
 
 ## **Boko Hacks 2024**
 - The first Boko Hacks.
