@@ -9,7 +9,7 @@ nav:
   - Home: index.md
   - About : about.md
   - Event Archive: archive.md
-  - Sponsors: sponsor.md
+  - Sponsors: thankyou.md
   
 extra_css:
   - stylesheets/extra.css
