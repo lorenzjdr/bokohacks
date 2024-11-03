@@ -1,7 +1,7 @@
 # **A Huge Thank You To Our Sponsors**
 
 ## **BOBCAT CHAMPION**
-![IEEE](assets/logos/IEEE.png)
+![IEEE - Jalyn Celly](assets/logos/IEEE.png)
 
 ## **BOBCAT GOLD**
 ![Dell Logo](assets/logos/Dell.png)
