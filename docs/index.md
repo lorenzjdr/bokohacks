@@ -1,4 +1,8 @@
 # **Boko Hacks 2025**
+### **SAVE THE DATE : 2/27/25 -2/28/2025**
+
+# **[Sign-Up](https://forms.gle/TvTm57yx22sWYRiL6)**
+
 ![Boko Hacks 2025 Poster 1](assets/BokoHacks25_Poster1.png)
 
 ### **What Makes BokoHacks Special?**
