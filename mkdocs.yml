@@ -1,4 +1,5 @@
 site_name: Boko Hacks
+site_url: https://bokohacks.com
 theme:
   name: material
   features:
