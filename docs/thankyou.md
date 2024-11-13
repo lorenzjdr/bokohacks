@@ -1,14 +1,16 @@
 # **A Huge Thank You To Our Sponsors**
 
 ## **BOBCAT CHAMPION**
-![IEEE - Jalyn Celly](assets/logos/IEEE.png)
+![IEEE Logo](assets/logos/IEEE.png)
+![Google Logo](assets/logos/Google.png)
+![TXST ITAC Logo](assets/logos/TXST_ITAC.png)
 
 ## **BOBCAT GOLD**
 ![Dell Logo](assets/logos/Dell.png)
 ![Cloudflare Logo](assets/logos/Cloudflare.png)
 
 ## **BOBCAT SILVER**
-![CADS Logo](assets/logos/CADS.png)
+![TXST CADS Logo](assets/logos/TXST_CADS.png)
 
 ## **Why Sponsor Us?** 
 
