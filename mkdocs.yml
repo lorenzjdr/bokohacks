@@ -11,9 +11,12 @@ nav:
   - About : about.md
   - Event Archive: archive.md
   - Sponsors: thankyou.md
-  
+extra_javascript:
+  - javascripts/main.js
+
 extra_css:
   - stylesheets/extra.css
+  - stylesheets/animations.css
 
 extra:
   cname: bokohacks.com
