@@ -1,12 +1,12 @@
 # **A Huge Thank You To Our Sponsors**
 
 ## **BOBCAT CHAMPION**
-![IEEE Logo](assets/logos/IEEE.png)
-![Google Logo](assets/logos/Google.png)
-![TXST ITAC Logo](assets/logos/TXST_ITAC.png)
+![IEEE Logo](assets/logos/IEEE.png)  
+![Dell Logo](assets/logos/Dell.png)  
+![Google Logo](assets/logos/Google.png)  
+![TXST ITAC Logo](assets/logos/TXST_ITAC.png)  
 
 ## **BOBCAT GOLD**
-![Dell Logo](assets/logos/Dell.png)
 ![Cloudflare Logo](assets/logos/Cloudflare.png)
 
 ## **BOBCAT SILVER**
