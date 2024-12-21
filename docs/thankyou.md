@@ -3,7 +3,6 @@
 ## **BOBCAT CHAMPION**
 ![IEEE Logo](assets/logos/IEEE.png)  
 ![Dell Logo](assets/logos/Dell.png)  
-![Google Logo](assets/logos/Google.png)  
 ![TXST ITAC Logo](assets/logos/TXST_ITAC.png)  
 
 ## **BOBCAT GOLD**
