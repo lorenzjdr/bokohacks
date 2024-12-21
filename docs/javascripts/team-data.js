@@ -2,8 +2,8 @@ const teamMembers = [
    // Follow the structure to add more team members. Don't forget to add a comma after the closing curly brace.
    // We can make an API to fetch this data in the future. This will do for now.
   {
-        name: "Member 1 Name",
-        title: "Member 1 Title",
+        name: "Lorenz De Robles",
+        title: "",
         image: "",
         links: {
             linkedin: "",
@@ -12,11 +12,13 @@ const teamMembers = [
         }
     },
     {
-        name: "Member 2 Name",
-        title: "Member 1 Title",
-        image: "",
+        name: "Olivia Laurel",
+        title: "Director of Social Media",   
+        image: "/assets/profiles/olivialaurel.jpeg",
         links: {
-            linkedin: "",
+            linkedin: "https://www.linkedin.com/in/olivialaurel/",
+            github: "https://github.com/livlaurel", 
+            website: "https://www.olaurel.dev/"
         }
     },
   ];
