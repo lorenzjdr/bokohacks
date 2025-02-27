@@ -11,6 +11,7 @@ nav:
   - About : about.md
   - Event Archive: archive.md
   - Sponsors: thankyou.md
+  - Repository and Submission: submission.md  
 extra_javascript:
   - javascripts/main.js
 
@@ -20,3 +21,6 @@ extra_css:
 
 extra:
   cname: bokohacks.com
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/lorenzjdr/bokohacks
