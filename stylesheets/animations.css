@@ -1,0 +1,41 @@
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Hidden state for elements */
+.animate {
+  opacity: 0;
+  visibility: hidden;
+}
+
+/* Visible state when element enters viewport */
+.animate.active {
+  opacity: 1;
+  visibility: visible;
+  animation: fadeInUp 0.8s ease-out forwards;
+}
+
+.md-content a {
+  transition: color 0.3s ease;
+}
+
+.md-content a:hover {
+  color: var(--md-primary-fg-color--light);
+  text-decoration: none;
+}
+
+.md-nav__link {
+  transition: color 0.3s ease;
+}
+
+.md-nav__link:hover {
+  transform: translateX(5px);
+}
